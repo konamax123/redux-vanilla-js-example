@@ -1,0 +1,12 @@
+node_modules/
+classes/
+.idea/
+.vscode
+build/
+.npmrc
+.DS_Store
+coverage/
+dist/
+uploads/
+test-output/
+server/npm-debug.log.*
